@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item01"
+        android:onClick="onMenuItemClick"
+        android:title="item01" />
+    <item android:title="SubMenu" >
+        <menu >
+            <item
+                android:id="@+id/subItem02"
+                android:title="Subitem02" />
+            <item
+                android:id="@+id/subItem01"
+                android:title="Subitem01" />
+        </menu>
+    </item>
+</menu>

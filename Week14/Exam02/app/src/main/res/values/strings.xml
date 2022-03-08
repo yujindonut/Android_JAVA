@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exam02</string>
+    <string name="dialog_title">삭제 확인</string>
+    <string name="dialog_message">삭제하시겠습니까?</string>
+    <string name="dialog_ok">확인</string>
+    <string name="dialog_cancel">취소</string>
+</resources>
