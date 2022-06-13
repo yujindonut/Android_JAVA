@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ETCApplication</string>
+    <string name="button_Toast">TOAST</string>
+    <string name="button_Sound">SOUND</string>
+    <string name="button_Vibration">VIBRATION</string>
+</resources>

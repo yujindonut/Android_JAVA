@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exam01</string>
+    <string name="editText">내용 입력</string>
+    <string name="tvDisplay">텍스트 출력</string>
+</resources>

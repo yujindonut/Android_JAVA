@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exam02</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_equal">=</string>
+</resources>

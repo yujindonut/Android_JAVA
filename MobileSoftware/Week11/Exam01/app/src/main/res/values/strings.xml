@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialog Test</string>
+    <string name="food_name">음식명 입력</string>
+    <string name="country_name">음식의 나라명 입력</string>
+</resources>

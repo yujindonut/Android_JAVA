@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exam01</string>
+    <string name="menu01">짜장면</string>
+    <string name="menu02">짬뽕</string>
+    <string name="menu03">김치찌개</string>
+    <string name="menu04">순두부찌개</string>
+</resources>
